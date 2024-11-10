@@ -8,5 +8,5 @@ Le rapport du projet est inclus et présente les différentes étapes de notre a
 Note : Les données de l'entraînement ne sont pas incluses, car elles contiennent des photos personnelles.
 
 Auteurs
-Owen Braux
+Owen Braux et
 Elliot Cambier
